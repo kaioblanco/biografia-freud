@@ -5,15 +5,23 @@ body {
     background-color: #ced3dd;
 }
 
+.barra {
+    padding: 0 200px;
+}
+
 h1 {
+    text-align: center;
     background-color: #995f5f;
     color: #fff;
-    padding: 10px;
-    text-align: center;
+    padding: 20px;
+    margin: 0;
 }
 
 h2 {
     color: #333;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 20px 0;
 }
 
 strong {

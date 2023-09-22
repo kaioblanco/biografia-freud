@@ -5,6 +5,9 @@ body {
     background-color: #ced3dd;
 }
 
+.barra {
+    padding: 0 200px;
+}
 
 h1 {
     text-align: center;
@@ -46,17 +49,13 @@ h3 {
 
 
 a {
-    color: #0078d4;
+    color: #007BFF;
     text-decoration: none;
-    transition: color 0.3s;
+    margin: 10px;
+    display: inline-block;
+    font-weight: bold;
 }
 
 a:hover {
-    color: #004477;
-}
-
-
-a[href="biografiaFreud-PG2.html"] {
-    float: right;
-    margin: 20px;
+    text-decoration: underline;
 }
